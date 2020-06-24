@@ -13,7 +13,7 @@
     <fieldset>
         <form name="search" action="" method="POST">
             <div class="search">
-                Coupe model:<@spring.formInput "searchForm.string" "" "text"/>
+                Crossover model:<@spring.formInput "searchForm.string" "" "text"/>
                 <br>
             </div>
             <input type="submit" value="Search"/>
