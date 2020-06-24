@@ -3,7 +3,10 @@
 <html lang="en">
 <style>
     * {
-        background-color: lightpink;
+        background-image: url(https://s.auto.drom.ru/img1/catalog/photos/fullsize/bmw/3-series/bmw_3-series_31252.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;);;
     }
 </style>
 <head>

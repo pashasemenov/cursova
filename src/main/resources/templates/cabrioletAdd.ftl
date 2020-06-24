@@ -3,7 +3,10 @@
 <html lang="en">
 <style>
     * {
-        background-color: #59ffa0;
+        background-image: url(https://hevcars.com.ua/wp-content/uploads/2017/08/mercedes-benz-ev-vision-mercedes-maybach-6-cabriolet-hevcars-01.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;);
     }
 </style>
 <head>

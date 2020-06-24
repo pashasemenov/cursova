@@ -3,7 +3,10 @@
 <html lang="en">
 <style>
     * {
-        background-color: lightpink;
+        background-image: url(https://s0.rbk.ru/v6_top_pics/media/img/7/45/755712083492457.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;);
     }
 </style>
 <head>

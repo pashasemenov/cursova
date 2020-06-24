@@ -3,7 +3,10 @@
 <html lang="en">
 <style>
     * {
-        background-color: #59ffa0;
+        background-image: url(https://img.mercedes-benz-kiev.com/data/lineup/c-class-coupe/c-class-coupe-3.jpeg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;);
     }
 </style>
 <head>
