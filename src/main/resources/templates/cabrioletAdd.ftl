@@ -15,23 +15,19 @@
 </head>
 <body>
 <form name="cabriolet" action="" method="POST">
-    Cabriolet id:
-    <br>
-    <@spring.formInput "cabrioletForm.id" "" "text"/>
-    <br>
-    Cabriolet model:
+     Model:
     <br>
     <@spring.formInput "cabrioletForm.model" "" "text"/>
     <br>
-    Cabriolet brand:
+    Brand:
     <br>
     <@spring.formInput "cabrioletForm.brand", "", "text"/>
     <br>
-    Cabriolet Producing country:
+    Producing country:
     <br>
     <@spring.formInput "cabrioletForm.producingCountry", "", "text"/>
     <br>
-    Cabriolet Graduation year:
+    Graduation year:
     <br>
     <@spring.formInput "cabrioletForm.graduationYear", "", "text"/>
 
